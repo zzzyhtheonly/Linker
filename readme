@@ -1,0 +1,3 @@
+Keep the makefile and linker.cpp in the same directory.
+Execute command: make linker.
+It will generate a ELF named linker, then use it.
